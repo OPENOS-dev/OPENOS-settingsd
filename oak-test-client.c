@@ -1,4 +1,18 @@
 /*
+ * Copyright (C) 2026 OPENOS-dev
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the OPENOS-PROJECT-LICENSE (OPL) v1.2.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * OPL for more details.
+ *
+ * You should have received a copy of the OPL along with this program.
+ * If not, see <https://github.com/OPENOS-dev/OPL>.
+ */
+
+/*
  * oak-test-client — OAK 协议测试客户端
  * 用法: oak-test-client <command> [OAK-SK] [socket]
  *   - 用与守护进程相同算法生成 H1 与 H2, 发送并打印响应
